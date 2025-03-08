@@ -1,10 +1,18 @@
 # Texas-Lead
 
 Lead Exposure Risk Map – Identifying Heavy Metal Contamination and Health Risks for Children in Texas
+![image alt](https://github.com/KIAChy21/Texas-Lead/blob/Texas_Lead-issues/Industry_Texas.png?raw=true)
+
 1. Project Overview
 This project aims to map lead exposure risks in Texas by integrating industrial pollution, socioeconomic data, and child health vulnerability indicators. Using GIS and data science techniques, I identify high-risk zones and provide actionable insights.
 2. Research Question
 How do geolocation, socioeconomic conditions, and industrial toxic discharges contribute to increased lead exposure risks among children under five in Texas?
+
+![image alt](https://github.com/KIAChy21/Texas-Lead/blob/Texas_Lead-issues/Income%20Level_Texas.png?raw=true)
+
+
+![image alt](https://github.com/KIAChy21/Texas-Lead/blob/Texas_Lead-issues/EBLLs_U6_Texas.png?raw=true)
+
 3. Data Sources
 The following datasets were used to develop this map:
 Data Source	Description
@@ -67,6 +75,10 @@ Step 4: Export Final Map
 1.	Open Print Layout in QGIS.
 2.	Add title
 3.	Export PNG (for world maps 600dpi and 1200dpi and for heat maps 1200px and 8000px)
+![image alt](https://github.com/KIAChy21/Texas-Lead/blob/Texas_Lead-issues/gdp-Texas_Lead.png?raw=true)
+
+![image alt](https://github.com/KIAChy21/Texas-Lead/blob/Texas_Lead-issues/pop%20density-Texas_Lead.png?raw=true)
+
 8. Interactive Map Option
 Using Python (Folium) to Create an Interactive Map
 import folium
