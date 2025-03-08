@@ -69,6 +69,8 @@ Step 4: Export Final Map
 3.	Export PNG (for world maps 600dpi and 1200dpi and for heat maps 1200px and 8000px)
 ![image alt](https://github.com/KIAChy21/Texas-Lead/blob/Texas_Lead-issues/gdp-Texas_Lead.png?raw=true)
 
+![image alt](https://github.com/KIAChy21/Texas-Lead/blob/Texas_Lead-issues/pop%20density-Texas_Lead.png?raw=true)
+
 8. Interactive Map Option
 Using Python (Folium) to Create an Interactive Map
 import folium
