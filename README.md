@@ -7,6 +7,9 @@ Lead Exposure Risk Map – Identifying Heavy Metal Contamination and Health Risk
 This project aims to map lead exposure risks in Texas by integrating industrial pollution, socioeconomic data, and child health vulnerability indicators. Using GIS and data science techniques, I identify high-risk zones and provide actionable insights.
 2. Research Question
 How do geolocation, socioeconomic conditions, and industrial toxic discharges contribute to increased lead exposure risks among children under five in Texas?
+
+![image alt](https://github.com/KIAChy21/Texas-Lead/blob/Texas_Lead-issues/Income%20Level_Texas.png?raw=true)
+
 3. Data Sources
 The following datasets were used to develop this map:
 Data Source	Description
