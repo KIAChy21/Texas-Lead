@@ -10,6 +10,9 @@ How do geolocation, socioeconomic conditions, and industrial toxic discharges co
 
 ![image alt](https://github.com/KIAChy21/Texas-Lead/blob/Texas_Lead-issues/Income%20Level_Texas.png?raw=true)
 
+
+![image alt](https://github.com/KIAChy21/Texas-Lead/blob/Texas_Lead-issues/EBLLs_U6_Texas.png?raw=true)
+
 3. Data Sources
 The following datasets were used to develop this map:
 Data Source	Description
