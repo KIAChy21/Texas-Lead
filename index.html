@@ -3,26 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Image Gallery</title>
+    <title>MAP 671 Project - Kamal Ibne Amin Chowdhury</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <header>
-        <h1>My Image Gallery</h1>
-    </header>
+    <div class="container">
+        <h1>Texas-Lead</h1>
+        
+        <div class="metadata">
+            <p><strong>Created:</strong> March 2025</p>
+            <p><strong>Tools:</strong> QGIS 3.32, Photoshop</p>
+            <p><strong>Coordinate System:</strong> WGS 84</p>
+        </div>
 
-    <div class="gallery-container">
-        <div class="image-grid">
-            <img src="D:\OneDrive\Spring 2025\MAP671-201\Modules\Texas-Lead\maps\gdp-Texas_Lead.png" alt="Global GDP 2022">
-            <img src="D:\OneDrive\Spring 2025\MAP671-201\Modules\Texas-Lead\maps\Income Level_Texas.png" alt="Family annual median income of 252 states of Texas">
-            <img src="D:\OneDrive\Spring 2025\MAP671-201\Modules\Texas-Lead\maps\Industry_Texas.png" alt="Lead discharge insutry of Texas">
-            <img src="D:\OneDrive\Spring 2025\MAP671-201\Modules\Texas-Lead\maps\EBLLs_U6_Texas.png" alt="Elevated blood lead level of under 6 years children of Texas">
-            <img src="D:\OneDrive\Spring 2025\MAP671-201\Modules\Texas-Lead\maps\pop density-Texas_Lead.png" alt="Global Population Density 2022">
+        <div class="map-container">
+            <img src="maps/gdp-Texas_Lead.png" alt="Global GDP 2022">
+            <img src="maps/Income Level_Texas.png" alt="Family annual median income of Texas">
+            <img src="maps/Industry_Texas.png" alt="Lead discharge industry of Texas">
+            <img src="maps/EBLLs_U6_Texas.png" alt="Elevated blood lead level of under 6 years of children of Texas">
+            <a href="maps/pop-density-Texas_Lead.png" class="pop-density-Texas_Lead-link">Global population density 2022</a>
+        </div>
+
+        <div class="description">
+            <h2>About This Map</h2>
+            <p>This map shows the distribution of Lead contamination and its health impact to Texas's under 6 years of children.</p>
+        </div>
+
+        <div class="github-link">
+            <a href="https://github.com/KIAChy21/Texas-Lead" target="_blank">View Project Repository</a>
         </div>
     </div>
-
-    <footer>
-        <p>Created using GitHub Pages</p>
-    </footer>
 </body>
 </html>
